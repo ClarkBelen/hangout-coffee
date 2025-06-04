@@ -1,5 +1,3 @@
-#BADING SI RONAN
-
 
 ### Running the Application
 
@@ -17,4 +15,3 @@ npm run dev
 
 ### Node Express Tutorial
 
-https://www.youtube.com/watch?v=xvFZjo5PgG0
